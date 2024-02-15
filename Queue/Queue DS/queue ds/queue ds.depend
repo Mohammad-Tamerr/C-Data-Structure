@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1699195045 source:e:\ds\queue\queue ds\queue ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1699195045 source:e:\ds\queue\queue ds\queue ds\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1699195058 e:\ds\queue\queue ds\queue ds\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"Types.h"
+
+1699141304 e:\ds\queue\queue ds\queue ds\types.h
+
